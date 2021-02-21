@@ -1,2 +1,2 @@
-This is a sample README file for the Git tutorial
-This is a change.
+This is my sample README file for the Git tutorial.
+Today's date is 2/21/21.
